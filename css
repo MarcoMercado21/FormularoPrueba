@@ -1,0 +1,17 @@
+body{
+    background-color: #def9e5;
+}
+
+img{
+
+    text-align: center;
+    float: left; width: 10em; height: 10em; margin-right: 1em;
+}
+
+
+.FotoCentrar{
+
+    display: grid;
+    place-content: center;
+
+}
