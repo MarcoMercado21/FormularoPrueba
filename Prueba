@@ -3,7 +3,6 @@
 <head>
 
     <title>Mi página de ejemplo</title>
-
     
 
     <!doctype html>
@@ -35,11 +34,10 @@
 			  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		
+    <link rel="stylesheet" href="estilo1.css">
 
 
 </head>    
-
-<body>
 
 
     <CENTER><h1>Inicio de Sesion de problemas tecnicos </h1></CENTER>
@@ -52,12 +50,26 @@
 <form>
     <fieldset>
 
+
+
+      <div>
       <center>
-      <legend><h2>Datos Usuarios</h2></legend>
-  </center>
- 
-       
- 
+      <h1>¡Hola! ¡Bienvenido!</h1>
+      </center>
+    </div>
+
+    <br>
+<div class="FotoCentrar">
+    <img src="C:\Users\marco\OneDrive\Escritorio\puños.png" alt="centrar foto">
+</div>     
+    
+
+
+
+       <br>
+       <br>
+       <br>
+
   <div class="row">
     <div class="col">
       <input type="text" class="form-control" placeholder="Usario" aria-label="Usuario">
@@ -75,7 +87,10 @@
   
 
 <center>
-  <a class="btn btn-info" href="formulario2.html" role="button">Inicio de Sesion</a>
+
+
+  <a class="btn btn-info" href="formulario2.html" role="button">Ingresar</a>
+
   <br>
   <br>
     </center>
