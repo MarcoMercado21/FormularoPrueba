@@ -32,7 +32,7 @@
 			  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		
-
+    <link rel="stylesheet" href="estilo1.css">
 
 </head>    
 
@@ -42,20 +42,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <CENTER><h1><p class="text-danger">Resumen</p></h1></CENTER>
+    <CENTER><h1>Resumen</h1></CENTER>
 <br>
 <br>
 
 
 
 <br>
-<br>
-<br>
+
 <form>
     <fieldset>
       <center><legend><h2>Información</h2></legend></center>
   
  <br>
+<div class="compu2">
+<img src="C:\Users\marco\OneDrive\Escritorio\compu4.png">
+</div>
+
+
+<br>
+<br>
 
  <center>
 
